@@ -1,0 +1,25 @@
+
+.img_animat{
+    animation: rotate 2s linear infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.h1_animat{
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 2s forwards 0.5s;
+}
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

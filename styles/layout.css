@@ -1,0 +1,30 @@
+/*layout rules*/
+header{
+    background-image: url(https://bogatyr.club/uploads/posts/2023-03/1679563165_bogatyr-club-p-fon-dlya-prezentatsii-piramidi-vkontakte-1.jpg);
+    background-position:center;
+    background-size: cover; 
+}
+
+aside {
+    background-image: url('https://img.lovepik.com/background/20211022/large/lovepik-golden-bronzing-texture-background-image_401764901.jpg');
+    padding: 20px;
+    background-position: center;
+}
+
+footer{
+    background-image: url('https://e7.pngegg.com/pngimages/255/568/png-transparent-metal-golden-background-04-thumbnail.png');
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-size: cover;
+    background-position: center center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+    background-image: url('https://fons.pibig.info/uploads/posts/2023-05/1685052297_fons-pibig-info-p-tsvet-zoloto-metallik-fon-37.jpg');
+    background-position: center;
+    background-size: contain;
+    }

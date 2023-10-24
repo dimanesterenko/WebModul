@@ -1,0 +1,11 @@
+
+.search-btn:hover {
+    color: #000b34;
+}
+
+.nav-pills .nav-item:hover a {
+    color: #000b34; 
+    background-color: #b3ff007b;
+    border-radius: 10px;
+    font-weight: bolder;
+  }

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+/*SMACSS*/
+/*Base rules*/
+body{
+    background-color: aliceblue;
+    font-family: 'Russo One', sans-serif;
+}
